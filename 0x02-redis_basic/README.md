@@ -1,3 +1,7 @@
+<div>Use Redis in a container
+Redis server is stopped by default - when you are starting a container, you should start it with:<b> service redis-server start</b>
+
+</div>
 <div data-role="task11663" data-position="1" id="task-num-0">
       <div class="panel panel-default task-card " id="task-11663">
   <span id="user_id" data-id="194319"></span>
